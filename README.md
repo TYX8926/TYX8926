@@ -1,4 +1,4 @@
-- Hello there :)
+<h1>Hello there :)</h1>
 - I do lots of things.
 
 - Mostly focused on tech tinkering, coding, and more.
